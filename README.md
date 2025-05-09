@@ -18,9 +18,9 @@ Filters out `ERROR` messages, counts their frequency, and exports the result as 
 
 ```bash
 ./analyze-errors.sh path/to/your/log.txt
+```
 Sample output:
 分析完成，結果已儲存於：error-report-2025-05-09_23-05-00.txt
-```
 
 ## Project Structure
 ```bash
