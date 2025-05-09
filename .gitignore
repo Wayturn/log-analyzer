@@ -1,0 +1,4 @@
+*.log
+*.txt~
+error-report-*.txt
+output/
